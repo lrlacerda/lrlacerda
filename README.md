@@ -67,4 +67,4 @@ Sou um desenvolvedor de sistemas formado pelo SENAI de São Paulo, com habilidad
   <a href="https://www.linkedin.com/in/lucasribeirolacerda/"> <img src="https://github.com/lrlacerda/Lucas-Ribeiro-Lacerda/blob/main/img/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f67.svg" alt="Descrição da imagem" width="100"></a>
 </div>
 
-![snake animation](https://github.com/lrlacerda/lrlacerda/blob/output/github-contribution-grid-snake.svg)
+
