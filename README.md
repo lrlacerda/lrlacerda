@@ -32,6 +32,9 @@ Sou um desenvolvedor de sistemas formado pelo SENAI de São Paulo, com habilidad
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrlacerda&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+##  Certificação
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dcc8bb58-664c-48d9-95a1-499e2221a7ac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🔧 Ferramentas 🔧
 
 <div>
