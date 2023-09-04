@@ -34,7 +34,7 @@ Sou um desenvolvedor de sistemas formado pelo SENAI de São Paulo, com habilidad
 
 ##  Certificação
 <div>
-   <img src=""C:\Users\lribe\OneDrive\Área de Trabalho\Lucas\microsoft-certified-azure-ai-fundamentals.png"" alt="Descrição da imagem" width="50">
+   <img src="https://www.credly.com/badges/dcc8bb58-664c-48d9-95a1-499e2221a7ac/public_url" alt="Descrição da imagem" width="50">
 </div>
 
 ## 🔧 Ferramentas 🔧
