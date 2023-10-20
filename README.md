@@ -45,6 +45,9 @@ Sou um desenvolvedor de sistemas formado pelo SENAI de São Paulo, com habilidad
 
 ##
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lrlacerda&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🎓 Formação Acadêmica 🎓
 
 <div>
