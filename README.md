@@ -25,9 +25,9 @@ Sou um desenvolvedor de sistemas formado pelo SENAI de São Paulo, com habilidad
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lrlacerda&theme=swift&dracula=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lrlacerda&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lrlacerda&theme=dracula_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=lrlacerda&theme=dracula=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lrlacerda&theme=dracula=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lrlacerda&theme=dracula=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🔧 Ferramentas 🔧
