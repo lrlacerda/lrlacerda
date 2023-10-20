@@ -24,13 +24,11 @@ Sou um desenvolvedor de sistemas formado pelo SENAI de São Paulo, com habilidad
 - 🏋️ Pratico esportes regularmente para manter o equilíbrio entre o trabalho e o bem-estar. Atualmente, estou focado em corrida e treinamento funcional, o que me ajuda a manter a mente afiada e a lidar com desafios de forma mais eficiente.
 </div>
 
-## ⭐ Informações sobre minha conta GitHub
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lrlacerda&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lrlacerda&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lrlacerda&theme=dracula_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- <div>
-  <a href="https://github.com/lrlacerda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrlacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrlacerda&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 
 ## 🔧 Ferramentas 🔧
 
