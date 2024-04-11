@@ -52,6 +52,9 @@ Sou um desenvolvedor de sistemas formado pelo SENAI de São Paulo, com habilidad
 ## 🎓 Formação Acadêmica 🎓
 
 <div>
+  💻FAM Facukdade das Américas - Bachelor of Architecture -  ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+</div>
+<div>
   💻Escola SENAI de Informática - Ensino Técnico, Técnico em Desenvolvimento de Sistemas
 </div>
 <div>
@@ -61,7 +64,7 @@ Sou um desenvolvedor de sistemas formado pelo SENAI de São Paulo, com habilidad
   ⚙️Universidade Metodista de São Paulo - pós graduação, Clinica Médica de Cães e Gatos
 </div>
 <div>
-  ⚙️Universidade Metodista de São Paulo - Bachelor of Architecture - BArch, Medicina Veterinária
+  ⚙️Universidade Metodista de São Paulo - Bachelor - Medicina Veterinária
 </div>
 
 ## 🌐 Contato 🌐
