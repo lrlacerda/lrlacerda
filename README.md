@@ -52,7 +52,7 @@ Sou um desenvolvedor de sistemas formado pelo SENAI de São Paulo, com habilidad
 ## 🎓 Formação Acadêmica 🎓
 
 <div>
-  💻FAM Faculdade das Américas - Bachelor of Architecture -  ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+  💻FAM Faculdade das Américas - Bachelor of Architecture -  Ciência da computação
 </div>
 <div>
   💻Escola SENAI de Informática - Ensino Técnico, Técnico em Desenvolvimento de Sistemas
